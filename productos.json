@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tomb Raider",
+        "img": "./img/tombraider.jpg",
+        "ubicacion": "Temperley"
+    },
+    {
+        "id": 2,
+        "nombre": "Fifa 22",
+        "img": "./img/fifa.jpg",
+        "ubicacion": "Bandfield"
+    },
+    {
+        "id": 3,
+        "nombre": "The Last of Us",
+        "img": "./img/thelastofus.jpg",
+        "ubicacion": "Capital Federal"
+    },
+    {
+        "id": 4,
+        "nombre": "Crash Bandicoot",
+        "img": "./img/crashbandicoot.jpg",
+        "ubicacion": "Capital Federal"
+    },
+    {
+        "id": 5,
+        "nombre": "Call of Duty",
+        "img": "./img/callofduty.jpg",
+        "ubicacion": "Ezeiza"
+    },
+    {
+        "id": 6,
+        "nombre": "Battlefield",
+        "img": "./img/battlefield.jpg",
+        "ubicacion": "Capital Federal"
+    },
+    {
+        "id": 7,
+        "nombre": "Gran Turismo",
+        "img": "./img/granturismo.jpg",
+        "ubicacion": "Temperley"
+    },
+    {
+        "id": 8,
+        "nombre": "Uncharted",
+        "img": "./img/uncharted.jpg",
+        "ubicacion": "Quilmes"
+    }
+
+
+]
